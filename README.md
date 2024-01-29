@@ -5,6 +5,7 @@ In this portfolio, you will find further insight into some of the classes that b
 # Senior Capstone (ME 170A/170B)
 
 For my senior capstone, my team of four was tasked with designing a stoage system for Hydrogen Fuel cells that would be loaded onto large scale mining operation vehichles. Through this project I was able to work with a team and develop better understanding of team dynamics within an engineering space. I also developed greater CAD skills and better understanding of how to use those skills for analysis of materials and designs. 
+To learn more about my Senior Capstone, please refer to the ME170-Capstone.md file. 
 
 # Coursework and Class Descriptions
 
