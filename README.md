@@ -1,4 +1,4 @@
-# Howard Hintons MechE Portflio
+# Howard Hintons MechE Portfolio
 
 In this portfolio, you will find further insight into some of the classes that better shaped my Mechanical Engineering career. Also included are porjects that have been meaningful to my engineering journey.  
 
